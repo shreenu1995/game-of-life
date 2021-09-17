@@ -21,6 +21,7 @@
         <jelastic.environment>wakaleo</jelastic.environment>
         <sonar.organization>shreenu1995</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <property name="sonar.java.binaries" value="target"/>
     </properties>
 
     <scm>
